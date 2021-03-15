@@ -1,0 +1,85 @@
+body {
+background-image: url("../img/papyrus.webp");
+}
+
+.image1
+{
+  margin-top:5px ;
+  margin-left:600px ;
+}
+
+.image2
+{
+  margin-top:30px ;
+  margin-left:550px ;
+  text-decoration: none;
+}
+
+.image3
+{
+  margin-top:50px ;
+  margin-left:200px ;
+}
+
+
+
+img{
+  margin: 5px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+
+
+}
+
+ul {
+  margin-top:10px ;
+  margin-left:530px ;
+
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
+  float:left;
+  line-height: 100px;
+
+}
+
+ul li a {
+  text-decoration: none;
+  font-size: 79px;
+  font-family: fantasy;
+  color: darkred;
+  padding: 0 20px;
+}
+
+.audio controls {
+  margin-top:10px ;
+  margin-left:530px ;
+}
+
+h1 {
+  text-decoration: none;
+  font-size: 20px;
+  font-family: fantasy;
+  list-style: none;
+  display: inline-block;
+  color: darkred;
+
+
+}
+footer {
+  text-decoration: none;
+  font-size: 12px;
+  font-family:sans-serif;
+  list-style: none;
+  display: inline-block;
+  background-color: darkred
+  color:black
+}
